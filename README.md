@@ -26,7 +26,8 @@ This is a repo for my 30Days of daily website design challenge.
 				A simple responsive Portfolio UI, made with Tailwind CSS, HTML, and Jquery.
 			</td>
 			<td>
-				https://adroit11.github.io/My30daysOfUI/
+				<stong>Github pages: </strong>https://adroit11.github.io/My30daysOfUI/ </br>
+				<strong>Firebase: </strong>	
 			</td>
 		</tr>
 	</tbody>
