@@ -11,7 +11,7 @@ This is a repo for my 30Days of daily website design challenge.
 	<li>4 Personal project UI designs</li>
 	<li>The rest would be Updated soon ....</li>
 </ul>
-
+<strong><em>The Sole goal is to be a better version of me each day</em</strong>
 <table>
 	<thead>
 		<th>
