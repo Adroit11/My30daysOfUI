@@ -39,7 +39,7 @@ This is a repo for my 30Days of daily website design challenge.
 			<td> Portfolio UI Design(s)</td>
 			<td>
 				<stong>Github pages: </strong>https://adroit11.github.io/My30daysOfUI/ </br>
-				<strong>Firebase: </strong>	
+				<strong>Firebase: </strong>https://adroitcode-c9fb7.firebaseapp.com/
 			</td>
 		</tr>
 	</tbody>
