@@ -17,6 +17,7 @@ This is a repo for my 30Days of daily website design challenge.
 	</thead>
 	<tbody>
 		<tr>
+			<td></td>
 			<td>Day 1</td>
 			<td>
 				07/03/2018
