@@ -42,5 +42,19 @@ This is a repo for my 30Days of daily website design challenge.
 				<strong>Firebase: </strong>https://adroitcode-c9fb7.firebaseapp.com/
 			</td>
 		</tr>
+		<tr>
+			<td></td>
+			<td>Day 2</td>
+			<td>
+				08/03/2018
+			</td>
+			<td>
+				Made some corrections on my portfolio website responsiveness. It was initailly designed for the ALCwithGoogle final project showcase.
+			</td>
+			<td> Portfolio UI Design(s)</td>
+			<td>
+				<stong>Github pages: </strong> http://bit.ly/2tbfc5h</br>
+			</td>
+		</tr>
 	</tbody>
 </table>
