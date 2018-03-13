@@ -56,5 +56,62 @@ This is a repo for my 30Days of daily website design challenge.
 				<stong>Github pages: </strong> http://bit.ly/2tbfc5h</br>
 			</td>
 		</tr>
+		<tr>
+			<td></td>
+			<td>Day 3</td>
+			<td>
+				09/03/2018
+			</td>
+			<td>
+				Designed the third portfolio template.
+			</td>
+			<td> Portfolio UI Design(s)</td>
+			<td>
+				<stong>Github pages: </strong> to be pushed soon</br>
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Day 4</td>
+			<td>
+				10/03/2018
+			</td>
+			<td>
+				Designed the google signup page.
+			</td>
+			<td> Google page Design(s)</td>
+			<td>
+				<stong>Link: </strong> http://bit.ly/2obaO0r </br>
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Day 5</td>
+			<td>
+				11/03/2018
+			</td>
+			<td>
+				Designed the mobile responsive part of the google signup page.
+			</td>
+			<td> Google page Design(s)</td>
+			<td>
+				<stong>Link: </strong> Changes would be pushed soon. </br>
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Day 6</td>
+			<td>
+				12/03/2018
+			</td>
+			<td>
+				Designed the frontend of my personal project (an online code editor).
+			</td>
+			<td> Project frontened Design(s)</td>
+			<td>
+				<stong>Link: </strong> https://adroit11.github.io/AdroitCode/  </br>
+			</td>
+		</tr>
+		
 	</tbody>
 </table>
